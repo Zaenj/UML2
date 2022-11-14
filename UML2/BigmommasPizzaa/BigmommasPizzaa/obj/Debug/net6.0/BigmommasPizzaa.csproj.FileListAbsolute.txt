@@ -1,0 +1,15 @@
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\bin\Debug\net6.0\BigmommasPizzaa.exe
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\bin\Debug\net6.0\BigmommasPizzaa.deps.json
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\bin\Debug\net6.0\BigmommasPizzaa.runtimeconfig.json
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\bin\Debug\net6.0\BigmommasPizzaa.dll
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\bin\Debug\net6.0\BigmommasPizzaa.pdb
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\obj\Debug\net6.0\BigmommasPizzaa.csproj.AssemblyReference.cache
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\obj\Debug\net6.0\BigmommasPizzaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\obj\Debug\net6.0\BigmommasPizzaa.AssemblyInfoInputs.cache
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\obj\Debug\net6.0\BigmommasPizzaa.AssemblyInfo.cs
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\obj\Debug\net6.0\BigmommasPizzaa.csproj.CoreCompileInputs.cache
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\obj\Debug\net6.0\BigmommasPizzaa.dll
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\obj\Debug\net6.0\refint\BigmommasPizzaa.dll
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\obj\Debug\net6.0\BigmommasPizzaa.pdb
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\obj\Debug\net6.0\BigmommasPizzaa.genruntimeconfig.cache
+C:\Users\Zaen Javaid\source\repos\BigmommasPizzaa\BigmommasPizzaa\obj\Debug\net6.0\ref\BigmommasPizzaa.dll
